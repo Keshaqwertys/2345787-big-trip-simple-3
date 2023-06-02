@@ -2,14 +2,11 @@ import { createCounter } from '../utils.js';
 import { generateDestination } from './destination';
 
 const cities = [
-  'Paris',
-  'New York City',
-  'London',
-  'Bangkok',
-  'Hong Kong',
+  'Rome',
+  'San Francisco',
+  'Tokyo',
   'Moscow',
-  'Kiev',
-  'Tokio',
+  'Sydney',
 ];
 
 const getDestinationId = createCounter();
