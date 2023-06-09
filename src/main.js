@@ -50,6 +50,7 @@ const placeholderView = document.querySelector('.trip-events__msg');
 /** @type {ListView} */
 const listView = document.querySelector(String(ListView));
 
+
 /** @type {HTMLButtonElement} */
 const createButtonView = document.querySelector('.trip-main__event-add-btn');
 

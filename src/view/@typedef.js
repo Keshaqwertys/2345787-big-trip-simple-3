@@ -4,6 +4,12 @@
 
 /** @typedef {import('./filter-view').default} FilterView */
 /** @typedef {import('./sort-view').default} SortView */
+/** @typedef {import('flatpickr/dist/types/instance').Instance} Calendar */
+/** @typedef {import('flatpickr/dist/types/options').DateOption} CalendarDate */
+/** @typedef {import('flatpickr/dist/types/options').Options} CalendarOptions */
+
+/** @typedef {import('./filter-view').default} FilterView */
+/** @typedef {import('./sort-view').default} SortView */
 /** @typedef {import('./point-view').default} PointView */
 /** @typedef {import('./editor-view').default} EditorView */
 /** @typedef {import('./creator-view').default} CreatorView */
